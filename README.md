@@ -55,6 +55,9 @@ El resultado se almacena en una nueva tabla llamada Peliculas_Generos_Joan en Dy
 
 Se configuró un Amazon S3 Static Website Hosting para mostrar los resultados almacenados en S3 en una página web pública. La web consulta el archivo JSON generado en S3 y lo muestra en un formato amigable.
 
+![Captura](https://github.com/user-attachments/assets/5f1956be-bd32-4cb7-80d9-cb6d1465d0ec)
+
+
 
 
 
