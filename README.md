@@ -1,6 +1,6 @@
-#Análisis de Películas en DynamoDB
+# Análisis de Películas en DynamoDB
 
-##Descripción del Proyecto
+## Descripción del Proyecto
 
 Este notebook de AWS Glue permite realizar un procesamiento avanzado sobre una tabla de películas almacenada en DynamoDB. Se realizan dos tareas principales:
 
@@ -8,7 +8,7 @@ Este notebook de AWS Glue permite realizar un procesamiento avanzado sobre una t
 
   Clasificación automática del género de las películas en base a su título y almacenamiento en una nueva tabla en DynamoDB.
 
-##Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
   AWS Glue (para procesamiento de datos en la nube)
 
@@ -19,7 +19,7 @@ Este notebook de AWS Glue permite realizar un procesamiento avanzado sobre una t
   PySpark (para manipulación y análisis de datos)
 
 
-##Flujo del Notebook
+## Flujo del Notebook
 
 1️⃣ Carga de Datos desde AWS Glue Catalog
 
